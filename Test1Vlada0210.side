@@ -1,0 +1,72 @@
+{
+  "id": "e4c71ffe-bd9f-4b9f-848e-b2c68c7b6ce5",
+  "version": "2.0",
+  "name": "Test1Vlada",
+  "url": "https://devexpress.github.io/testcafe/example/",
+  "tests": [{
+    "id": "2579050f-376e-48ad-9b24-5304c619762d",
+    "name": "Untitled",
+    "commands": [{
+      "id": "93f90550-6b49-4701-bf15-45e4621ac57f",
+      "comment": "",
+      "command": "open",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "72aeb899-2c93-478f-bf13-b3be2b63e299",
+    "name": "Untitled (1)",
+    "commands": [{
+      "id": "e630f2ec-0db4-467e-92ae-2b268c2dd005",
+      "comment": "",
+      "command": "answerOnNextPrompt",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "f4f541e5-74e3-423a-9c45-4b3ec8fe1782",
+    "name": "Untitled (1) (1)",
+    "commands": [{
+      "id": "7d6a3fac-0ebe-4818-b1c6-e26ff4f9ce2e",
+      "comment": "",
+      "command": "chooseCancelOnNextPrompt",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "1de4aeb7-e28b-46e8-872f-85bf31f4ba6e",
+    "name": "Untitled (1) (1) (1)",
+    "commands": [{
+      "id": "ce8878ab-cad0-495a-a7c5-9890ba048f8e",
+      "comment": "",
+      "command": "chooseCancelOnNextConfirmation",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "160fcf12-dc96-4393-903a-a87646886227",
+    "name": "Untitled (1) (1) (1) (1)",
+    "commands": [{
+      "id": "8e2acb7a-86a6-47ed-88fc-5b65253d5f56",
+      "comment": "",
+      "command": "chooseCancelOnNextConfirmation",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "d17a0d74-e401-4894-bf59-04adbb1b5513",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["2579050f-376e-48ad-9b24-5304c619762d"]
+  }],
+  "urls": ["https://devexpress.github.io/testcafe/example/"],
+  "plugins": []
+}
